@@ -6,6 +6,11 @@
 
 🎃📚 Honeydroid's Tome awaits your wisdom! 🐝🤖 Add a page by sharing something you've learned in open source. Each new entry boosts the magic of community knowledge. 🕸️✨ Will you help the Tome grow before Hacktoberfest ends? 🛠️👻 Share your insights… if you dare! 🦇
 
+### Setting up
+
+1. Apply what you’ve learned and **fork** the repository.
+2. **Clone** the forked repository to your local device.
+
 ### Contributing
 
 1. Create a **new branch** in your local device.
