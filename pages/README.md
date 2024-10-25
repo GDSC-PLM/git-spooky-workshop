@@ -1,6 +1,6 @@
-<div style="display: flex; justify-content: center;">
-    <img width="200px" height="200px" src="../public/assets/Witch Honeydroid.png" />
-</div>
+<p align="center">
+    <img width="279px" height="249px" src="../public/assets/Witch Honeydroid.png" />
+</p>
 
 # Honeydroid's Tome
 
