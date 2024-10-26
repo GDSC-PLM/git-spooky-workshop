@@ -1,5 +1,9 @@
 <p align="center">
-    <img src="https://github.com/seegyulater/git-spooky-workshop/blob/markcy-entry/public/assets/Dracula%20Haribot.png" alt="Top Images" width="150">
+    <img src="https://github.com/seegyulater/git-spooky-workshop/blob/markcy-entry/public/assets/Dracula%20Haribot.png" alt="Dracula Haribot" width="150">
+    <img src="https://github.com/seegyulater/git-spooky-workshop/blob/markcy-entry/public/assets/Anger%20Siborg.png" alt="Anger Siborg" width="150">
+    <img src="https://github.com/seegyulater/git-spooky-workshop/blob/markcy-entry/public/assets/Captain%20America%20Popstron.png" alt="Anger Siborg" width="150">
+
+    
 </p>
 
 <h1 align="center">
