@@ -3,5 +3,7 @@
 </h1>
 
 <h3 align="center">
-    **I learned about how to contribute to open source code and learn about the gist of using GIT!!
+    I learned about how to contribute to open source code and learn about the gist of using GIT!!
+    I also learned about the hacktoberfest and the benefits of joining and lastly I learned
+    about the advantages of writing a perfect commit changes
 </h3>
